@@ -1,0 +1,3 @@
+syntax: glob
+Trap Game/Trap Game/Library/*
+Trap Game/Trap Game/Temp/*

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trap Game.Plugins", "Trap Game.Plugins.csproj", "{467ABD33-D6C4-AFF6-CEA7-0ED6EEB60D12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trap Game", "Trap Game.csproj", "{DAF0D0E6-7A98-2516-EE96-7CB61CE75822}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trap Game.Editor", "Trap Game.Editor.csproj", "{A32F1679-4C97-D707-B6C3-AD21CE328267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trap Game.Editor.Plugins", "Trap Game.Editor.Plugins.csproj", "{09992E74-45B9-FE78-162B-6F101860774A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{467ABD33-D6C4-AFF6-CEA7-0ED6EEB60D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{467ABD33-D6C4-AFF6-CEA7-0ED6EEB60D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{467ABD33-D6C4-AFF6-CEA7-0ED6EEB60D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{467ABD33-D6C4-AFF6-CEA7-0ED6EEB60D12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAF0D0E6-7A98-2516-EE96-7CB61CE75822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF0D0E6-7A98-2516-EE96-7CB61CE75822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF0D0E6-7A98-2516-EE96-7CB61CE75822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF0D0E6-7A98-2516-EE96-7CB61CE75822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A32F1679-4C97-D707-B6C3-AD21CE328267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A32F1679-4C97-D707-B6C3-AD21CE328267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A32F1679-4C97-D707-B6C3-AD21CE328267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A32F1679-4C97-D707-B6C3-AD21CE328267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09992E74-45B9-FE78-162B-6F101860774A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09992E74-45B9-FE78-162B-6F101860774A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09992E74-45B9-FE78-162B-6F101860774A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09992E74-45B9-FE78-162B-6F101860774A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

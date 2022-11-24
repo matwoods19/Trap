@@ -1,0 +1,32 @@
+{
+  "$id": "5",
+  "AutoRefresh": true,
+  "AutoRefreshRemotes": true,
+  "CommitTextLinks": null,
+  "DraftCommitMsg": "",
+  "IncomingSavedCount": 0,
+  "LastCheckedRemotes": "2020-01-15T14:39:39.4961123-05:00",
+  "LastUsedView": 1,
+  "LogBranchFilterIndex": 0,
+  "OutgoingSavedCount": 0,
+  "SidebarExpandedItems": [
+    "Branches"
+  ],
+  "SidebarWidth": 210.0,
+  "SubtreeLinks": [],
+  "RemoteProjectLinks": [
+    {
+      "$id": "6",
+      "BaseUrl": "https://bitbucket.org/",
+      "Identifier": "",
+      "RemoteName": "default",
+      "Type": 0,
+      "Username": "mwoods19",
+      "CloneUrl": "https://mwoods19@bitbucket.org/niovanna/gra-211-trap-game",
+      "ProjectUrl": "https://bitbucket.org/niovanna/gra-211-trap-game",
+      "AccountId": "mwoods19@bitbucket.org",
+      "AvatarUrl": "https://bytebucket.org/ravatar/%7B40e7b416-df10-4010-9899-5ccfbb48d1e3%7D?ts=default",
+      "DisplayName": "default: https://bitbucket.org/"
+    }
+  ]
+}
